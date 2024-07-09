@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Snake animation](https://raw.githubusercontent.com/Juraj6/Juraj6/output/github-contribution-grid-snake-dark.svg)
 <!--
 **Juraj6/Juraj6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
